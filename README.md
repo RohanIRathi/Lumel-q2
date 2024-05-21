@@ -3,3 +3,5 @@
 # Run helpers.py to run the data migration script
 
 > I could not complete the challenge as I have not had practice with sql in python. I had decided to use flask to create apis in python. I was able to create a script to migrate the data. My schema for database with normalisation is seen in the image `Lumel-db.jpg`.
+<br>
+For core challenges, I would create specific sql queries to fetch the data directly from the database to output the api.
